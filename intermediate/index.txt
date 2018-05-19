@@ -1,0 +1,5 @@
+V	190123193738Z		1000	unknown	/C=US/ST=CA/O=Gboot/OU=Game/CN=gboot.cc
+V	190123195442Z		1001	unknown	/C=US/ST=DC/O=IIN/OU=Game/CN=iin.im
+V	190125082731Z		1002	unknown	/C=US/ST=CA/O=GeGo/OU=Game/CN=gego.cc
+V	190126173933Z		1003	unknown	/C=US/ST=MA/O=FFOX/OU=Game/CN=ffox.top
+V	190201161314Z		1004	unknown	/C=US/ST=TX/O=GetGG/OU=AI/CN=gitgg.com

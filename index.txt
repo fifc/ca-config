@@ -1,0 +1,1 @@
+V	280111170101Z		1000	unknown	/C=US/ST=MA/O=FCNN Inc./OU=FCNN Inc. Certificate Authority/CN=FCNN Intermediate CA
