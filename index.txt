@@ -1,1 +1,1 @@
-V	280111170101Z		1000	unknown	/C=US/ST=MA/O=FCNN Inc./OU=FCNN Inc. Certificate Authority/CN=FCNN Intermediate CA
+V	290123131336Z		1000	unknown	/C=US/ST=WA/O=Sea/OU=Sea Intermediary CA/CN=Sea Intermediary CA/emailAddress=grilledcheese@yummyinmytummy.us
